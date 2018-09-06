@@ -1,4 +1,4 @@
-(module to263-5 (layer F.Cu) (tedit 5B720EB1)
+(module to263-5 (layer F.Cu) (tedit 5B9163CC)
   (descr "D-pak 5pin")
   (fp_text reference Q*** (at 0 -9) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
@@ -16,12 +16,12 @@
   (fp_line (start 5.2 2) (end -5.2 2) (layer F.SilkS) (width 0.15))
   (fp_line (start -5.2 2) (end -5.2 -6.6) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.2 1.2) (end -5.2 1.2) (layer F.SilkS) (width 0.15))
-  (pad 1 smd rect (at -3.4 7) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
-  (pad 5 smd rect (at 3.4 7) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -3.39852 5.854) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 3.39852 5.854) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0 -4) (size 10.8 8) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -1.7 7) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
-  (pad 3 smd rect (at 0 7) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
-  (pad 4 smd rect (at 1.7 7) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -1.69672 5.854) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0 5.854) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 1.7018 5.854) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
   (model walter/smd_trans/d-pak-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
