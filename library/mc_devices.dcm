@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC5891
+D Power Logic 8-bit Shift Register, DIP-8/SOIC-8
+K shift register 8bit
+F http://www.ti.com/lit/ds/symlink/tpic6595.pdf
+$ENDCMP
+#
+$CMP TPIC6B595
+D Power Logic 8-bit Shift Register, DIP-8/SOIC-8
+K shift register 8bit
+F http://www.ti.com/lit/ds/symlink/tpic6595.pdf
+$ENDCMP
+#
 #End Doc Library
